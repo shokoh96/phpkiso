@@ -43,6 +43,8 @@ $dbn = null;
   <p>ニックネーム：<?php echo $nickname; ?></p>
   <p>メールアドレス：<?php echo $email; ?></p>
   <p>お問合わせ内容：<?php echo $content; ?></p>
+
+  <a href="view.php">お問合せ内容一覧</a>
 </body>
 
 </html>

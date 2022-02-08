@@ -7,7 +7,7 @@
 </head>
 
 <body>
-  <form action="" method="post">
+  <form action="" method="POST">
     <p>検索したいidを入力してください。</p>
     <input type="text" name="code">
     <input type="submit" value="検索">
